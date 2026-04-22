@@ -11,9 +11,9 @@ export function Hero() {
   }, []);
 
   const textLines = [
-    { text: 'Designing', offset: 0 },
-    { text: 'Interfaces &', offset: 120 },
-    { text: 'Building Experiences', offset: '50%' },
+    { text: 'DESIGN.', offset: 0 },
+    { text: 'CODE.', offset: 120 },
+    { text: 'EXPERIENCES.', offset: '50%' },
   ];
 
   return (
