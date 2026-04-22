@@ -13,7 +13,7 @@ export function Hero() {
   const textLines = [
     { text: 'Designing', offset: 0 },
     { text: 'Interfaces &', offset: 120 },
-    { text: 'Building Experiences', offset: '30%' },
+    { text: 'Building Experiences', offset: '50%' },
   ];
 
   return (
@@ -58,7 +58,7 @@ export function Hero() {
               className="text-white"
               style={{
                 fontFamily: "'Bebas Neue', sans-serif",
-                fontSize: 'clamp(40px, 12vw, 120px)',
+                fontSize: 'clamp(60px, 12vw, 180px)',
                 lineHeight: '1',
                 letterSpacing: '-0.02em',
                 marginLeft: typeof line.offset === 'number' ? `${line.offset}px` : line.offset,
