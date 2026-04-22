@@ -29,7 +29,7 @@ export function Experience() {
             className="text-black/40 uppercase tracking-widest text-sm"
             style={{ fontFamily: "'Space Grotesk', sans-serif" }}
           >
-            Trusted by industry  nothing +++++++++++++++++++++++++++++++++++++++++++++++++++
+            Trusted by industry leaders
           </p>
         </motion.div>
 
